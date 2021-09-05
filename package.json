@@ -1,0 +1,16 @@
+{
+  "name": "discordbotism",
+  "version": "1.0.0",
+  "description": "",
+  "main": "central.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anonymousperson",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^13.1.0",
+    "ms": "^2.1.3"
+  }
+}
