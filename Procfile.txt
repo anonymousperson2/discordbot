@@ -1,1 +1,1 @@
-Worker: node ./central.js
+Worker: node central.js
