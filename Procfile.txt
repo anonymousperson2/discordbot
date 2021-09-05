@@ -1,1 +1,1 @@
-Worker: node ./discordbot/central.js
+Worker: node ./central.js
